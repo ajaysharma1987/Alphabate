@@ -1,14 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#pip install playsound
-
-
-# In[8]:
-
 
 from playsound import playsound
 user=input("please enter an alphabate : ")
@@ -27,20 +17,6 @@ suffix=".mp3"
 sound=os.path.join(path+suffix)
 play=playsound(sound)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
