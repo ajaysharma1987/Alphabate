@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from playsound import playsound
-user=input("please enter an alphabate : ")
+user=input("please enter an alphabet : ")
 user=user.upper()
 from PIL import Image
 import os
